@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color: #2b3d20; 
+    margin-top: 20px;
+    font-size: 32px;
+}
+table {
+    margin: 20px auto;
+    border-spacing: 20px;
+}
+td {
+    text-align: center;
+    background-color: #fff;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgb(165, 205, 57);
+    padding: 10px;
+}
+img {
+    display: block;
+    margin: 0 auto;
+    width: 180px;
+    height: 210px;
+    border-radius: 5px;
+    object-fit: cover; 
+}
+
